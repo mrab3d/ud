@@ -1,2 +1,1 @@
-
-console.log("next1");
+console.log('next2');
